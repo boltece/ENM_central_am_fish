@@ -1,0 +1,25 @@
+NROWS           1200 
+NCOLS           1680 
+NBANDS          1 
+NBITS           64 
+BYTEORDER       I 
+PIXELTYPE       FLOAT 
+LAYOUT          BIL 
+SKIPBYTES       0
+ULXMAP          -89.9958333333333 
+ULYMAP          16.9958333333333 
+XDIM            0.008333333 
+YDIM            0.008333333 
+BANDROWBYTES    13440 
+TOTALROWBYTES   13440 
+BANDGAPBYTES    0
+NODATA          -1.7e+308 
+
+
+The below is additional metadata, not part of the BIL/HDR format
+----------------------------------------------------------------
+CREATOR=R package:x
+CREATED= 2017-09-22 15:14:50 
+Projection= NA 
+MinValue= -26 
+MaxValue= 3732 
